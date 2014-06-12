@@ -9,6 +9,7 @@
 #include <iostream>
 #include <string>
 using namespace std;
+
 template<typename T>
 bool working(const T list[], int size)
 {

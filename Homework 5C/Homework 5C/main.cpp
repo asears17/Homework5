@@ -96,8 +96,8 @@ T TheVector<T>::at(int index)
 
 int main()
 {
-    TheVector<int> v1;//find out what this means.
-    v1.push_back(1);
+    TheVector<int> v1;
+    v1.push_back(1);//called from the vector class
     v1.push_back(2);
     
     TheVector<int> v2;

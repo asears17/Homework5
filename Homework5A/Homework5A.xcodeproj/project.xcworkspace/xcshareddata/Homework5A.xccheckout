@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EBAF3CBD-598D-4F47-A211-A5F214EAE74D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Homework5A</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8E843F5D-5F8D-485B-A3B2-8E3599272C5B</key>
+		<string>https://github.com/asears17/Homework5.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Homework5A/Homework5A.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8E843F5D-5F8D-485B-A3B2-8E3599272C5B</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/asears17/Homework5.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8E843F5D-5F8D-485B-A3B2-8E3599272C5B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8E843F5D-5F8D-485B-A3B2-8E3599272C5B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Homework5</string>
+		</dict>
+	</array>
+</dict>
+</plist>
